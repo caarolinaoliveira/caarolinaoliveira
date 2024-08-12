@@ -10,9 +10,9 @@
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D3A0FF?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 
-Meu nome é Carolina Oliveira. Sou Médica Veterinária, porém, em alguma dia qualquer decidi que não precisava mais de paz na minha vida (rsrs). Hoje sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Positivo. Sou extremamente apaixonada por café e gatos. 
+Olá, sou Carolina Oliveira, Médica Veterinária de formação, mas em algum momento decidi trocar a paz pela adrenalina do mundo da tecnologia (rsrs). Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo. Sou apaixonada por café e gatos!
 
-Minha primeira experiência com código foi na época de blogs em que todos tinham um site. Lembro-me de tentar encontrar uma maneira de mudar a cor de fundo e ter um texto chamativo. Eu costumava passar horas tentando personalizá-lo e nem conseguia ver o tempo passar. A emoção de ter o poder de estruturar páginas por conta própria foi incrível. É como lego. Você começa peça por peça, ninguém entende o que está construindo e pronto... você tem um castelo de códigos.
+Minha jornada com código começou na época dos blogs, quando todos queriam ter seu próprio site. Lembro-me de passar horas tentando personalizar a cor de fundo e criar um texto que se destacasse. A emoção de ter o poder de estruturar uma página do meu jeito foi indescritível, como montar um lego – peça por peça, até que, de repente, você tem um castelo de códigos.
 
 
 **Precisando de projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
