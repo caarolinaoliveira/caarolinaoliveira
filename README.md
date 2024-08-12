@@ -15,4 +15,3 @@ Olá, sou Carolina Oliveira, Médica Veterinária de formação, mas em algum mo
 
 **Precisando de projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
 
-![snake animation](https://github.com/<caarolinaoliveira>/<caarolinaoliveira>/blob/output/github-contribution-grid-snake2.svg)
