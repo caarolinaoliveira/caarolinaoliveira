@@ -3,7 +3,8 @@
 ### Estudante de desenvolvimento Back-end e Front-end
 
 <a href="https://www.linkedin.com/in/caarolinas/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   <a href = "mailto:carolina.dsoliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+<a href="https://www.linkedin.com/in/caarolinas/" target="_blank" style="color: #9370DB;">LinkedIn</a>  
+<a href="mailto:carolina.dsoliveira@gmail.com" style="color: #9370DB;">Gmail</a>
 
 Meu nome é Carolina Oliveira. Sou Médica Veterinária, porém, em alguma dia qualquer decidi que não precisava mais de paz na minha vida (rsrs). Hoje sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Positivo. Sou extremamente apaixonada por café e gatos. 
 
