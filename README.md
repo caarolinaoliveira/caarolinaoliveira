@@ -10,7 +10,7 @@
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D3A0FF?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 
-Olá, sou Carolina Oliveira, Médica Veterinária de formação, mas em algum momento decidi trocar a paz pela adrenalina do mundo da tecnologia (rsrs). Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo. Sou apaixonada por café e gatos!
+Olá, sou Carolina Oliveira, Médica Veterinária de formação. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo. Sou apaixonada por café e gatos!
 
 
 **Precisando de projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
